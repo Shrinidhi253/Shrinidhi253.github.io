@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /cat2/
 ---
 
 # All cat2 posts
